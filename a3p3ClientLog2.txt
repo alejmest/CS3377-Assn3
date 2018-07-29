@@ -1,0 +1,90 @@
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:47 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:47 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:47 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:47 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:56 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:47 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:56 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; rm -f junk.txt
+
+Sun Jul 29 16:19:59 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+

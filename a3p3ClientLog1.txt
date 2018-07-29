@@ -1,0 +1,145 @@
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:46 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:46 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:48 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:46 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:48 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:46 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:48 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:46 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:48 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:54 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:46 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:48 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:54 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:56 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:46 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:48 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:50 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:54 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:56 CDT 2018
+
+
+Output of command: date; ls -l junk.txt; touch junk.txt
+
+Sun Jul 29 16:19:58 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+
+

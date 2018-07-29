@@ -1,0 +1,525 @@
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:54 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:54 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:55&k8Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:54 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:55&k8Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:54 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:55&k8Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:54 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:55&k8Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:46 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:47 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:48 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:50 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:51 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:52 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:53 CDT 2018
+-rw-------+ 1 ajm162330 sn 0 Jul 29 16:19 junk.txt
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:54 CDT 2018
+Linux cslinux1.utdallas.edu 3.10.0-693.21.1.el7.x86_64 #1 SMP Wed Mar 7 19:03:37 UTC 2018 x86_64 x86_64 x86_64 GNU/Linux
+
+
+Output of command: date; ls -l junk.txt; uname -a
+
+Sun Jul 29 16:19:55&k8

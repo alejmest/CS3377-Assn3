@@ -57,9 +57,9 @@ int main(int argc, char **argv)
   fputs(recvline, stdout);
   
   FILE *fp;
-  fp=fopen("a3ServerLog.txt","w");
+  fp=fopen("a3p1ClientLog.txt","w");
   fclose(fp);
-  fp = fopen("a3ServerLog.txt", "a");
+  fp = fopen("a3p1ClientLog.txt", "a");
   fprintf(fp, "%s", recvline);
   fclose(fp);
  }

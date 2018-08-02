@@ -88,15 +88,21 @@ void *serverThread(void *parmPtr) {
 			strcat(cmdoutput,temp);
 		}
 	}
-
-        pclose(in);
+		pclose(in);
+		FILE *servLog;
+		servLog=popen("a3ServerLog.txt","a");
+		
         time_t rawtime;
         struct tm * timeinfo;
         time(&rawtime);
         timeinfo = localtime(&rawtime);
+		
         strcat(cmdoutput,"\n\n");
+		
+		fprintf(servLog,cmdoutput);
         printf("Thread %ld in process %ld did %s at time %s\n", threadNum, getpid(), messageBuf, asctime(timeinfo));
-   
+		fprintf(servLog,"Thread %ld in process %ld did %s at time %s\n", threadNum, getpid(), messageBuf, asctime(timeinfo));
+		fclose(servLog);
         
         /*Sends the client a message*/
         if (write(PARMPTR->connectionDesc,cmdoutput,2000) < 0) {
@@ -118,7 +124,9 @@ main(int argc, char **argv) {
     struct serverParm *parmPtr;
     int connectionDesc;
     pthread_t threadID;
-    
+    FILE *servLog;
+	servLog=popen("a3ServerLog.txt","w");
+	fclose(servLog);
     /* For testing purposes, make sure process will terminate eventually */
     alarm(120);  /* Terminate in 120 seconds */
 

@@ -47,8 +47,8 @@ int main(int argc, char **argv)
  printf("Enter line to loop for %d seconds:",sleeptime);
  fgets(sendline,MAXLINE,stdin);
  FILE *fp;
- fp=fopen("a3ServerLog1.txt", "w");
-   fclose(fp);
+ fp=fopen("a3p2ClientLog1.txt", "w");
+ fclose(fp);
  while (1) {
 	
   send(sockfd, sendline, strlen(sendline), 0);
@@ -61,7 +61,7 @@ int main(int argc, char **argv)
   printf("%s", "String received from the server: \n");
   fputs(recvline, stdout);
   
-  fp = fopen("a3ServerLog1.txt", "a");
+  fp = fopen("a3p2ClientLog1.txt", "a");
   fprintf(fp, "%s", recvline);
   fclose(fp);
 
